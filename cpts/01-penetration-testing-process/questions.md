@@ -28,7 +28,7 @@ What type of analysis can be used to predict future probabilities?
 
 Answer: predictive
 
---
+---
 
 
 ### *Question 3*
@@ -60,5 +60,14 @@ What is the name of the security standard for credit card payments that a compan
 
 
 Answer: PCI-DSS
+
+---
+
+
+### *Question 5*
+What designation do we typically give a report when it is first delivered to a client for a chance to review and comment? (One word)
+---
+
+Answer: DRAFT
 
 ---

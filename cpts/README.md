@@ -22,9 +22,9 @@ Explore path: [Click Here](https://academy.hackthebox.com/path/preview/penetrati
 
 ![Progress](https://img.shields.io/badge/Modules-1%2F28-blue?style=for-the-badge)
 
-| # | Module | Status | Writeup |
-|---|--------|--------|---------|
-| 1 | Penetration Testing Process | 🚧 In Progress | [Notes](./01-penetration-testing-process) |
+| # | Module | Writeup |
+|---|--------|--------|
+| 1 | Penetration Testing Process | [Notes](./01-penetration-testing-process) |
 
 
 ## 📁 Repository Structure
