@@ -25,12 +25,7 @@ Explore path: [Click Here](https://academy.hackthebox.com/path/preview/penetrati
 | 1 | Penetration Testing Process | [Notes](./01-penetration-testing-process) |
 
 
-## 📁 Repository Structure
-```
-cpts
-├── 01-penetration-testing-process/
-└── README.md
-```
+
 
 
 ## 🤝 Connect
