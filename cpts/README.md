@@ -15,7 +15,7 @@ This repository documents what I learn along the way, including techniques, comm
 
 [![App Platform](https://habrastorage.org/getpro/habr/upload_files/0d6/410/e2e/0d6410e2ee865a5508f713d8383f4e13.PNG)](https://academy.hackthebox.com/path/preview/penetration-tester)
 
-Explore the path: [Click Here](https://academy.hackthebox.com/path/preview/penetration-tester)
+Explore path: [Click Here](https://academy.hackthebox.com/path/preview/penetration-tester)
 
 
 ## 📊 Progress
