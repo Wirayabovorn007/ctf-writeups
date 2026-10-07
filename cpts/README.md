@@ -18,9 +18,7 @@ This repository documents what I learn along the way, including techniques, comm
 Explore path: [Click Here](https://academy.hackthebox.com/path/preview/penetration-tester)
 
 
-## 📊 Progress
-
-![Progress](https://img.shields.io/badge/Modules-1%2F28-blue?style=for-the-badge)
+## 📊 Contents 
 
 | # | Module | Writeup |
 |---|--------|--------|
