@@ -51,7 +51,6 @@ Every writeup follows the same structure so they're easy to skim:
 4. **Solution**: step-by-step with commands and code
 5. **Takeaways**: what I learned and how to spot it next time
 
-A reusable template lives in [`templates/writeup-template.md`](./templates/writeup-template.md).
 
 ## ⚠️ Spoiler & Ethics Policy
 

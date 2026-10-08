@@ -13,18 +13,9 @@ This repository documents what I learn along the way, including techniques, comm
 
 > ⚠️ No exam-related content are shared here. ⚠️
 
-[![App Platform](https://habrastorage.org/getpro/habr/upload_files/0d6/410/e2e/0d6410e2ee865a5508f713d8383f4e13.PNG)](https://academy.hackthebox.com/path/preview/penetration-tester)
+[![CPTS](https://habrastorage.org/getpro/habr/upload_files/0d6/410/e2e/0d6410e2ee865a5508f713d8383f4e13.PNG)](https://academy.hackthebox.com/path/preview/penetration-tester)
 
 Explore path: [Click Here](https://academy.hackthebox.com/path/preview/penetration-tester)
-
-
-## 📊 Contents 
-
-| # | Module | Writeup |
-|---|--------|--------|
-| 1 | Penetration Testing Process | [Notes](./01-penetration-testing-process) |
-
-
 
 
 
