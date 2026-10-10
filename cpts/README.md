@@ -19,7 +19,3 @@ Explore path: [Click Here](https://academy.hackthebox.com/path/preview/penetrati
 
 
 
-## 🤝 Connect
-[Instagram](https://www.instagram.com/wiraya.sh/) · [LinkedIn](https://www.linkedin.com/in/wiraya/)
-
-
