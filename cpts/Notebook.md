@@ -55,3 +55,25 @@ The Metasploit Framework (MSF) is an excellent tool for pentesters. It contains 
 - Many post-exploitation and pivoting tools
 
 To run `Metasploit`, we can use the `msfconsole` command
+
+We can search for our target application with the search exploit command. Ex. `search exploit "Simple Backup Plugin 2.7.10"` 
+
+If we found one exploit for this service. We can use it by copying the full name of it and using USE to use it: Ex. `msf6 > use exploit/windows/smb/ms17_010_psexec`
+
+Before we can run the exploit, we need to configure its options. To view the options available to configure, we can use the `show options` command.
+
+If you want to list all advanced options use `show advanced`.
+
+To show the info use `show info` command.
+
+Full list of possible evasion options use `show evasion`.
+
+Any option with Required set to yes needs to be set for the exploit to work. Ex. You can use set command to set the required option like this `set RHOSTS 10.10.10.40
+`
+
+Once we the options are set, we can start the exploitation. However, before we run the script, we can run a `check` to ensure the server is vulnerable.
+
+we can use the `run` or `exploit` command to run the exploit
+
+
+
